@@ -10,5 +10,8 @@ Toujours mettre la fonction que vous tester tout en bas des commentaires
 
 L'ajout des films dans la listes de film se font avec les id et doivent être séparés par une virgule
 
-J'ai trouver ce test très enrichissant, étant la première fois que je crée une API Symfony
+Quant a la reserve pour la partie 2, je prefere vous l'expliquer lors d'un futur entretien,
 
+J'ai trouver ce test tres enrichissant, etant la premiere fois que je cree une API Symfony
+
+Cordialement, Leo YIU
